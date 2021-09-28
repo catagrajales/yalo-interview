@@ -8,7 +8,7 @@
 3. Install the dependencies
 `composer install`
 
-4.  To run the server type the next command
+4.  To run the server, type the next command
 `php -S localhost:8000 -t ./public`
 
 5. To execute the posts api, run the next endpoint
